@@ -1,0 +1,33 @@
+# Секреты и учётные данные
+*.key
+*.env
+.env
+.env.*
+credentials.*
+secrets.*
+
+# Приватные клиентские материалы
+clients/*/private/
+clients/*/assets/
+
+# Логи переписок / сессий
+chat_*.md
+chats/
+
+# Машинно-локальные настройки Claude Code
+.claude/settings.local.json
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Временные файлы
+*.tmp
+*.bak
+*~
