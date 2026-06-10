@@ -1,5 +1,7 @@
 # content-strateg
 
+![content-strateg — конвейер контента для Claude Code](docs/banner.svg)
+
 > **EN — TL;DR.** A Russian-language **content-pipeline framework for Claude Code**: six specialized
 > sub-agents (strategist → researcher → producer → fact-checker → expert review → editor → distributor)
 > orchestrated by a single `/content-pipeline` command, with a human checkpoint after every stage.
