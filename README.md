@@ -1,4 +1,4 @@
-# content-strateg
+# Конвейер контента content-strateg
 
 ![content-strateg — конвейер контента для Claude Code](docs/banner.svg)
 
